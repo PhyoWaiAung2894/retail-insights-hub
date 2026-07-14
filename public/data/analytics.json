@@ -1,0 +1,480 @@
+{
+  "kpis": {
+    "total_revenue": 8887208.89,
+    "total_orders": 18532,
+    "total_customers": 4338,
+    "total_products": 3665,
+    "aov": 479.56,
+    "avg_orders_per_customer": 4.27,
+    "avg_clv": 2048.69,
+    "median_clv": 668.57,
+    "churn_rate": 0.334,
+    "snapshot_date": "2011-12-09",
+    "raw_rows": 541909,
+    "clean_rows": 392692
+  },
+  "monthly": [
+    {
+      "month": "2010-12",
+      "revenue": 570422.73,
+      "orders": 1400,
+      "customers": 885,
+      "new_customers": 885,
+      "returning_customers": 0
+    },
+    {
+      "month": "2011-01",
+      "revenue": 568101.31,
+      "orders": 987,
+      "customers": 741,
+      "new_customers": 417,
+      "returning_customers": 324
+    },
+    {
+      "month": "2011-02",
+      "revenue": 446084.92,
+      "orders": 997,
+      "customers": 758,
+      "new_customers": 380,
+      "returning_customers": 378
+    },
+    {
+      "month": "2011-03",
+      "revenue": 594081.76,
+      "orders": 1321,
+      "customers": 974,
+      "new_customers": 452,
+      "returning_customers": 522
+    },
+    {
+      "month": "2011-04",
+      "revenue": 468374.33,
+      "orders": 1149,
+      "customers": 856,
+      "new_customers": 300,
+      "returning_customers": 556
+    },
+    {
+      "month": "2011-05",
+      "revenue": 677355.15,
+      "orders": 1555,
+      "customers": 1056,
+      "new_customers": 284,
+      "returning_customers": 772
+    },
+    {
+      "month": "2011-06",
+      "revenue": 660046.05,
+      "orders": 1393,
+      "customers": 991,
+      "new_customers": 242,
+      "returning_customers": 749
+    },
+    {
+      "month": "2011-07",
+      "revenue": 598962.9,
+      "orders": 1331,
+      "customers": 949,
+      "new_customers": 188,
+      "returning_customers": 761
+    },
+    {
+      "month": "2011-08",
+      "revenue": 644051.04,
+      "orders": 1280,
+      "customers": 935,
+      "new_customers": 169,
+      "returning_customers": 766
+    },
+    {
+      "month": "2011-09",
+      "revenue": 950690.2,
+      "orders": 1755,
+      "customers": 1266,
+      "new_customers": 299,
+      "returning_customers": 967
+    },
+    {
+      "month": "2011-10",
+      "revenue": 1035642.45,
+      "orders": 1929,
+      "customers": 1364,
+      "new_customers": 358,
+      "returning_customers": 1006
+    },
+    {
+      "month": "2011-11",
+      "revenue": 1156205.61,
+      "orders": 2657,
+      "customers": 1664,
+      "new_customers": 323,
+      "returning_customers": 1341
+    },
+    {
+      "month": "2011-12",
+      "revenue": 517190.44,
+      "orders": 778,
+      "customers": 615,
+      "new_customers": 41,
+      "returning_customers": 574
+    }
+  ],
+  "segments": [
+    {
+      "segment": "Champions",
+      "customers": 941,
+      "revenue": 5741913.58
+    },
+    {
+      "segment": "Loyal",
+      "customers": 709,
+      "revenue": 1348195.11
+    },
+    {
+      "segment": "Lost",
+      "customers": 1570,
+      "revenue": 898194.89
+    },
+    {
+      "segment": "At Risk",
+      "customers": 659,
+      "revenue": 715420.0
+    },
+    {
+      "segment": "Potential",
+      "customers": 459,
+      "revenue": 183485.31
+    }
+  ],
+  "top_products": [
+    {
+      "code": 23843,
+      "description": "PAPER CRAFT , LITTLE BIRDIE",
+      "revenue": 168469.6,
+      "quantity": 80995,
+      "orders": 1
+    },
+    {
+      "code": 22423,
+      "description": "REGENCY CAKESTAND 3 TIER",
+      "revenue": 142264.75,
+      "quantity": 12374,
+      "orders": 1703
+    },
+    {
+      "code": "85123A",
+      "description": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "revenue": 100392.1,
+      "quantity": 36706,
+      "orders": 1971
+    },
+    {
+      "code": "85099B",
+      "description": "JUMBO BAG RED RETROSPOT",
+      "revenue": 85040.54,
+      "quantity": 46078,
+      "orders": 1600
+    },
+    {
+      "code": 23166,
+      "description": "MEDIUM CERAMIC TOP STORAGE JAR",
+      "revenue": 81416.73,
+      "quantity": 77916,
+      "orders": 195
+    },
+    {
+      "code": "POST",
+      "description": "POSTAGE",
+      "revenue": 77803.96,
+      "quantity": 3120,
+      "orders": 1099
+    },
+    {
+      "code": 47566,
+      "description": "PARTY BUNTING",
+      "revenue": 68785.23,
+      "quantity": 15279,
+      "orders": 1379
+    },
+    {
+      "code": 84879,
+      "description": "ASSORTED COLOUR BIRD ORNAMENT",
+      "revenue": 56413.03,
+      "quantity": 35263,
+      "orders": 1375
+    },
+    {
+      "code": "M",
+      "description": "Manual",
+      "revenue": 53419.93,
+      "quantity": 6933,
+      "orders": 253
+    },
+    {
+      "code": 23084,
+      "description": "RABBIT NIGHT LIGHT",
+      "revenue": 51251.24,
+      "quantity": 27153,
+      "orders": 801
+    },
+    {
+      "code": 79321,
+      "description": "CHILLI LIGHTS",
+      "revenue": 46265.11,
+      "quantity": 9646,
+      "orders": 519
+    },
+    {
+      "code": 22086,
+      "description": "PAPER CHAIN KIT 50'S CHRISTMAS ",
+      "revenue": 42584.13,
+      "quantity": 15591,
+      "orders": 980
+    },
+    {
+      "code": 22502,
+      "description": "PICNIC BASKET WICKER 60 PIECES",
+      "revenue": 39619.5,
+      "quantity": 61,
+      "orders": 2
+    },
+    {
+      "code": 21137,
+      "description": "BLACK RECORD COVER FRAME",
+      "revenue": 39045.8,
+      "quantity": 11401,
+      "orders": 313
+    },
+    {
+      "code": 22386,
+      "description": "JUMBO BAG PINK POLKADOT",
+      "revenue": 37254.36,
+      "quantity": 20148,
+      "orders": 871
+    }
+  ],
+  "declining_products": [
+    {
+      "code": 35914,
+      "description": "PINK CHICK EGG WARMER + EGG CUP",
+      "change_pct": -100.0,
+      "prior_revenue": 6.8
+    },
+    {
+      "code": 22925,
+      "description": "BLUE GIANT GARDEN THERMOMETER",
+      "change_pct": -100.0,
+      "prior_revenue": 399.77
+    },
+    {
+      "code": 72816,
+      "description": "SET/3 CHRISTMAS DECOUPAGE CANDLES",
+      "change_pct": -100.0,
+      "prior_revenue": 705.68
+    },
+    {
+      "code": 72134,
+      "description": "COLUMBIAN  CUBE CANDLE ",
+      "change_pct": -100.0,
+      "prior_revenue": 18.52
+    },
+    {
+      "code": 71459,
+      "description": "HANGING JAM JAR T-LIGHT HOLDER",
+      "change_pct": -100.0,
+      "prior_revenue": 69.12
+    },
+    {
+      "code": 45013,
+      "description": "FOLDING SHOE TIDY",
+      "change_pct": -100.0,
+      "prior_revenue": 2.95
+    },
+    {
+      "code": 40016,
+      "description": "CHINESE DRAGON PAPER LANTERNS",
+      "change_pct": -100.0,
+      "prior_revenue": 307.7
+    },
+    {
+      "code": 37476,
+      "description": "CONDIMENT TRAY 4 BOWLS AND 4 SPOONS",
+      "change_pct": -100.0,
+      "prior_revenue": 19.9
+    },
+    {
+      "code": 37468,
+      "description": "HARDMAN MUG 3 ASSORTED",
+      "change_pct": -100.0,
+      "prior_revenue": 15.21
+    },
+    {
+      "code": 37467,
+      "description": "PIG MUG IN TWO COLOUR DESIGNS",
+      "change_pct": -100.0,
+      "prior_revenue": 15.6
+    }
+  ],
+  "growing_products": [
+    {
+      "code": 82600,
+      "description": "N0 SINGING METAL SIGN",
+      "change_pct": 39860.0,
+      "prior_revenue": 6.3
+    },
+    {
+      "code": "82001S",
+      "description": "SILVER RECORD COVER FRAME",
+      "change_pct": 25289.6,
+      "prior_revenue": 3.75
+    },
+    {
+      "code": 21199,
+      "description": "PINK  HEART CONFETTI IN TUBE",
+      "change_pct": 5418.18,
+      "prior_revenue": 1.65
+    },
+    {
+      "code": 23495,
+      "description": "SET OF 3 PANTRY WOODEN SPOONS",
+      "change_pct": 3640.0,
+      "prior_revenue": 6.25
+    },
+    {
+      "code": 47469,
+      "description": "ASSORTED SHAPES PHOTO CLIP SILVER ",
+      "change_pct": 2900.0,
+      "prior_revenue": 0.65
+    },
+    {
+      "code": "84877B",
+      "description": "GREEN ROUND COMPACT MIRROR",
+      "change_pct": 2600.0,
+      "prior_revenue": 1.25
+    },
+    {
+      "code": 21232,
+      "description": "STRAWBERRY CERAMIC TRINKET POT",
+      "change_pct": 2569.19,
+      "prior_revenue": 47.38
+    },
+    {
+      "code": 22511,
+      "description": "RETROSPOT BABUSHKA DOORSTOP",
+      "change_pct": 2489.87,
+      "prior_revenue": 3.75
+    },
+    {
+      "code": 23496,
+      "description": "PANTRY KITCHEN THERMOMETER ",
+      "change_pct": 2000.0,
+      "prior_revenue": 5.0
+    },
+    {
+      "code": 23413,
+      "description": "DECORATIVE VINTAGE COFFEE  BOX",
+      "change_pct": 1903.03,
+      "prior_revenue": 9.9
+    }
+  ],
+  "countries": [
+    {
+      "country": "United Kingdom",
+      "revenue": 7285024.64,
+      "customers": 3920,
+      "orders": 16646
+    },
+    {
+      "country": "Netherlands",
+      "revenue": 285446.34,
+      "customers": 9,
+      "orders": 94
+    },
+    {
+      "country": "EIRE",
+      "revenue": 265262.46,
+      "customers": 3,
+      "orders": 260
+    },
+    {
+      "country": "Germany",
+      "revenue": 228678.4,
+      "customers": 94,
+      "orders": 457
+    },
+    {
+      "country": "France",
+      "revenue": 208934.31,
+      "customers": 87,
+      "orders": 389
+    },
+    {
+      "country": "Australia",
+      "revenue": 138453.81,
+      "customers": 9,
+      "orders": 57
+    },
+    {
+      "country": "Spain",
+      "revenue": 61558.56,
+      "customers": 30,
+      "orders": 90
+    },
+    {
+      "country": "Switzerland",
+      "revenue": 56443.95,
+      "customers": 21,
+      "orders": 51
+    },
+    {
+      "country": "Belgium",
+      "revenue": 41196.34,
+      "customers": 25,
+      "orders": 98
+    },
+    {
+      "country": "Sweden",
+      "revenue": 38367.83,
+      "customers": 8,
+      "orders": 36
+    }
+  ],
+  "clv_distribution": [
+    {
+      "bucket": "<\u00a3100",
+      "count": 158
+    },
+    {
+      "bucket": "\u00a3100-250",
+      "count": 711
+    },
+    {
+      "bucket": "\u00a3250-500",
+      "count": 895
+    },
+    {
+      "bucket": "\u00a3500-1k",
+      "count": 910
+    },
+    {
+      "bucket": "\u00a31k-2.5k",
+      "count": 963
+    },
+    {
+      "bucket": "\u00a32.5k-5k",
+      "count": 427
+    },
+    {
+      "bucket": "\u00a35k-10k",
+      "count": 170
+    },
+    {
+      "bucket": "\u00a310k-25k",
+      "count": 66
+    },
+    {
+      "bucket": ">\u00a325k",
+      "count": 38
+    }
+  ]
+}
